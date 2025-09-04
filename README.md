@@ -39,6 +39,9 @@ Antes de rodar o projeto, certifique-se de ter o **Python 3.8+** instalado em su
 python -m venv .venv
 ```
 ```bash
+.\.venv\Scripts\activate
+```
+```bash
 pip install -r requirements.txt
 ```
 ```bash
