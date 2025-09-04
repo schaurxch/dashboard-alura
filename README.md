@@ -38,9 +38,15 @@ Antes de rodar o projeto, certifique-se de ter o **Python 3.8+** instalado em su
 ```bash
 python -m venv .venv
 ```
+No Terminal CMD:
+```bash
+.\.venv\Scripts\activate.bat
+```
+Ou no PowerShell:
 ```bash
 .\.venv\Scripts\activate
 ```
+Em seguida:
 ```bash
 pip install -r requirements.txt
 ```
