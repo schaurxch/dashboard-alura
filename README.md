@@ -4,11 +4,11 @@ Dashboard desenvolvido durante o curso de **Dash** na [Alura](https://www.alura.
 O projeto combina **visualização de dados** e **machine learning**, permitindo:  
 
 - 📈 Analisar dados do conjunto **Heart Disease** (UCI Repository) por meio de gráficos interativos como histogramas e boxplots.  
-- 🧑‍⚕️ Preencher um **formulário clínico** com variáveis relevantes (idade, colesterol, pressão arterial, etc.) para gerar predições automáticas.  
+- 🧑‍⚕️ Preencher um **formulário** com variáveis relevantes (idade, colesterol, pressão arterial, etc.) para gerar predições automáticas.  
 - 🤖 Utilizar um modelo de **Machine Learning (XGBoost)** previamente treinado, que retorna se há ou não risco de doença cardíaca.  
 - 🎨 Disponibilizar uma interface intuitiva com o framework **Dash** e componentes estilizados via **Dash Bootstrap Components (DBC)**.  
 
-Esse projeto integra conceitos de **ciência de dados, estatística e IA aplicada à saúde**, em um ambiente web interativo.
+Esse projeto integra conceitos de **ciência de dados, estatística e IA**, em um ambiente web interativo.
 
 ---
 
@@ -31,11 +31,10 @@ Esse projeto integra conceitos de **ciência de dados, estatística e IA aplicad
 
 Antes de rodar o projeto, certifique-se de ter o **Python 3.8+** instalado em sua máquina.
 
-1. Faça download do repositório e abra a pasta  **Dash** no VS Code
+1. Faça download do repositório e abra a pasta **Dash** no VS Code
 2. Abra o terminal e certifique-se que está no diretório correto
 3. Rode os comandos abaixo, em ordem:
 
-Comandos no console para rodar
 ```bash
 python -m venv .venv
 ```
