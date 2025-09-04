@@ -1,5 +1,14 @@
 # 📊 Dashboard em Dash  
-Projeto desenvolvido durante o curso de **Dash** na [Alura](https://www.alura.com.br/).
+
+Dashboard desenvolvido durante o curso de **Dash** na [Alura](https://www.alura.com.br/).  
+O projeto combina **visualização de dados** e **machine learning**, permitindo:  
+
+- 📈 Analisar dados do conjunto **Heart Disease** (UCI Repository) por meio de gráficos interativos como histogramas e boxplots.  
+- 🧑‍⚕️ Preencher um **formulário clínico** com variáveis relevantes (idade, colesterol, pressão arterial, etc.) para gerar predições automáticas.  
+- 🤖 Utilizar um modelo de **Machine Learning (XGBoost)** previamente treinado, que retorna se há ou não risco de doença cardíaca.  
+- 🎨 Disponibilizar uma interface intuitiva com o framework **Dash** e componentes estilizados via **Dash Bootstrap Components (DBC)**.  
+
+Esse projeto integra conceitos de **ciência de dados, estatística e IA aplicada à saúde**, em um ambiente web interativo.
 
 ---
 
